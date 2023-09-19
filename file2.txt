@@ -3,3 +3,4 @@ This is file 2
 This is the 1st update to file 2
 
 Updated for branch1
+Update 2
